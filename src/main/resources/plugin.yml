@@ -1,0 +1,13 @@
+name: MythrilBans
+version: '${version}'
+main: net.yan.minecraft.mythrilbans.MythrilBans
+api-version: 1.19
+prefix: MythrilBans
+authors: [ Yspatt ]
+description: Simple Punishments Plugin
+depend:
+  - 'SmartInvs'
+commands:
+  ban:
+  unban:
+  history:

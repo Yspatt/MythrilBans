@@ -1,0 +1,28 @@
+mysql:
+  host: 'localhost'
+  database: 'test'
+  port: 3306
+  username: 'root'
+  password: ''
+
+messages:
+    no-permission: '&cYou dont have permission.'
+    ban-use: '&cUse: /ban <player> [duration] [reason]'
+    unban-use: '&cUse /unban <player>'
+    history-use: '&cUse /history <player>'
+    target-not-exists: '&cTarget player <target> does not exists.'
+    successfully-ban: '&aSuccessfully banned player <target>.'
+    already-ban: '&cThat players already banned.'
+    successfully-unban: '&aPlayer <target> has ben unbanned.'
+
+ban:
+  join-message:
+    - "&c&lMYTHRILBANS"
+    - "&0"
+    - "&cYou have been banned from this server!"
+    - "&1"
+    - "&7Reason: &f<reason>"
+    - "&7Staff: &f<staff>"
+    - "&7Duration: &f<duration>"
+    - "&2"
+    - "&cYou can buy unban in &bhttps://mythrilbans.net"
