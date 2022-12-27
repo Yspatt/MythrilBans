@@ -6,10 +6,11 @@ A simple bans plugin
 
 
 
-## Funcionalidades
+## Commands
 
-- Ban / Temp
-- Pardon
+- /ban <player> [duration] [reason]
+- /unban <player>
+- /history <player>
 
 
 ## Screenshots
@@ -24,7 +25,7 @@ A simple bans plugin
 ## Config
 
 ![Config](https://cdn.discordapp.com/attachments/1054390724050812998/1054929010234245190/image.png)
-## Autores
+## Authors
 
 - [@yanspatt](https://www.github.com/yspatt)
 
