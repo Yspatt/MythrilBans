@@ -8,9 +8,9 @@ A simple bans plugin
 
 ## Commands
 
-- /ban <player> [duration] [reason]
-- /unban <player>
-- /history <player>
+- /ban `<player> [duration] [reason]` - Ban a player
+- /unban `<player>` - Unban a player
+- /history `<player>` - Look bans/ubans history
 
 
 ## Screenshots
